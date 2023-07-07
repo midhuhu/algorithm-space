@@ -1,0 +1,16 @@
+{
+  "name": "algorithm-space",
+  "version": "1.0.0",
+  "description": "algorithm",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/midhuhu/algorithm-space.git"
+  },
+  "author": "midhuhu",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
